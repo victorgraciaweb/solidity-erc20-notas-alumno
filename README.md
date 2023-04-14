@@ -12,14 +12,6 @@ How to run?
 
    `truffle migrate --reset`
 
-3. Start server
-
-   `npm start`
-
-4. Open App in browser
-
-   localhost:3000
-
 Deploy contracts in Binance Smart Chain Testnet (BSC)
 --
 
