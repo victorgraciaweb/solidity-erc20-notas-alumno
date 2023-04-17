@@ -63,5 +63,4 @@ contract notas is ERC20, Ownable {
     function balanceTokensSC() public view returns (uint256){
         return balanceOf(address(this));
     }
-
 }
